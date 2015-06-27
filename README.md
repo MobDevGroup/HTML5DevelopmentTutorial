@@ -3,3 +3,17 @@
 > * 本文内容会持续不断地更新并维护，如果您有推荐的资源，请到此处[提交信息](https://github.com/MobileDevelopmentGroup/Html5DevelopmentTutorial/issues)。
 * 移动开发姊妹篇[Android开发资源汇总整理](https://github.com/MobileDevelopmentGroup/AndroidDevelopmentTutorial),请到这里[提交信息](https://github.com/MobileDevelopmentGroup/AndroidDevelopmentTutorial/issues)。
 * 移动开发姊妹篇[IOS开发资源汇总整理](https://github.com/MobileDevelopmentGroup/IOSDevelopmentTutorial),请到这里[提交信息](https://github.com/MobileDevelopmentGroup/IOSDevelopmentTutorial/issues)。
+
+## 相关技术论坛站点
+| 站点名称 | 站点地址 | 站点介绍 |
+|--------|---------|--------|
+|[9秒社团](http://www.9miao.com/forum.php)|<http://www.9miao.com/forum.php>|国内比较火的跨平台Html5开发者社区，涉及到的有跨平台移动应用开发引擎，开源游戏服务端框架，UI素材等等。|
+|[W3school](http://w3school.com.cn/)|<http://w3school.com.cn/>|领先的 Web 技术教程，可以作为我们的参考站，随时查阅。|
+|[360卫士](http://libs.useso.com/js.php)|<http://libs.useso.com/js.php>|360网站卫士常用前端公共库加速服务，为前端开发者提供参考。|
+|[移动开发在线模拟器](http://emulator.mobilewebsitesubmit.com/)|<http://emulator.mobilewebsitesubmit.com/>|在线模拟移动网站，可能需要翻墙。|
+|[html5test](http://html5test.com/)|<http://html5test.com/>|测试你的浏览器对html5的支持情况。|
+|[html5china](http://www.html5china.com/)|<http://www.html5china.com/>|中国领先的html5技术门户。|
+|[mobilehtml5](http://mobilehtml5.org/)|<http://mobilehtml5.org/>|移动设备针对html5的支持情况。里面有详细总结。|
+|[jsfiddle](http://jsfiddle.net/BT4Vd/)|<http://jsfiddle.net/BT4Vd/>|js在线调试工具。|
+|[html5研究小组](http://www.mhtml5.com/)|<http://www.mhtml5.com/>|不过最新在改版升级中。|
+|[sassmeister](http://sassmeister.com/)|<http://sassmeister.com/>|sass在线编辑器，可以同时预览生产的css代码，sass,less作为动态的样式表语言，渐渐成为越来越多的程序员写css的利器。|
