@@ -20,3 +20,4 @@
 |[前端知识结构](http://html5ify.com/fks/)|<http://html5ify.com/fks/>|国内人组织整理的一份很全的前端知识结构，从这上面也可以见证前端知识的变迁。|
 |[W3C移动端页面检查工具](http://validator.w3.org/mobile-alpha/)|<http://validator.w3.org/mobile-alpha/>|W3C发布了移动端页面检查工具,可以选择三种屏幕规格，通过工具发现网站在移动端存在的问题。源代码已经发布在[GitHub](https://github.com/w3c/Mobile-Checker)上|
 |[慕课网](http://www.imooc.com/)|<http://www.imooc.com/>|国内专注做IT技能教育的课程网站，上面提供许多不错的在线课程|
+|[极客学院](http://www.jikexueyuan.com/)|<http://www.jikexueyuan.com/>|专业的在线IT技术课程，第一时间发布最新的技术课程，目前已累计百万用户。|
