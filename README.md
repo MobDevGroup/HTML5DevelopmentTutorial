@@ -18,7 +18,8 @@
 |[html5研究小组](http://www.mhtml5.com/)|<http://www.mhtml5.com/>|不过最新在改版升级中。|
 |[sassmeister](http://sassmeister.com/)|<http://sassmeister.com/>|sass在线编辑器，可以同时预览生产的css代码，sass,less作为动态的样式表语言，渐渐成为越来越多的程序员写css的利器。|
 |[前端知识结构](http://html5ify.com/fks/)|<http://html5ify.com/fks/>|国内人组织整理的一份很全的前端知识结构，从这上面也可以见证前端知识的变迁。<http://html5ify.com/fks/fks_chart/>|
-|[W3C移动端页面检查工具](http://validator.w3.org/mobile-alpha/)|<http://validator.w3.org/mobile-alpha/>|W3C发布了移动端页面检查工具,可以选择三种屏幕规格，通过工具发现网站在移动端存在的问题。源代码已经发布在[GitHub](https://github.com/w3c/Mobile-Checker)上|
-|[慕课网](http://www.imooc.com/)|<http://www.imooc.com/>|国内专注做IT技能教育的课程网站，上面提供许多不错的在线课程|
+|[W3C移动端页面检查工具](http://validator.w3.org/mobile-alpha/)|<http://validator.w3.org/mobile-alpha/>|W3C发布了移动端页面检查工具,可以选择三种屏幕规格，通过工具发现网站在移动端存在的问题。源代码已经发布在[GitHub](https://github.com/w3c/Mobile-Checker)上。|
+|[慕课网](http://www.imooc.com/)|<http://www.imooc.com/>|国内专注做IT技能教育的课程网站，上面提供许多不错的在线课程。|
 |[极客学院](http://www.jikexueyuan.com/)|<http://www.jikexueyuan.com/>|专业的在线IT技术课程，第一时间发布最新的技术课程，目前已累计百万用户。|
-|javascripting(https://www.javascripting.com/)|<https://www.javascripting.com/>|一个收集全世界优秀的 client-side 端 Javascript 库、框架、插件的网站|
+|javascripting(https://www.javascripting.com/)|<https://www.javascripting.com/>|一个收集全世界优秀的 client-side 端 Javascript 库、框架、插件的网站。|
+|稀土掘金(http://gold.xitu.io/)|<http://gold.xitu.io/>|一个人人都可以推荐分享互联网知识的平台，里面有很多干货。|
