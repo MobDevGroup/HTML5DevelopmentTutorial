@@ -24,3 +24,4 @@
 |javascripting(https://www.javascripting.com/)|<https://www.javascripting.com/>|一个收集全世界优秀的 client-side 端 Javascript 库、框架、插件的网站。|
 |稀土掘金(http://gold.xitu.io/)|<http://gold.xitu.io/>|一个人人都可以推荐分享互联网知识的平台，里面有很多干货。|
 |开发者头条(http://toutiao.io/)|<http://toutiao.io>|<码农周刊>创办者，开发者的首选阅读分享平台,里面也有很多干货。|
+|麦子学院(http://www.maiziedu.com/)|<http://www.maiziedu.com/>|在线的IT职业教育平台，提供多种技术在线学习。
