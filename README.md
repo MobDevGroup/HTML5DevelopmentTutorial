@@ -27,3 +27,4 @@
 |[麦子学院](http://www.maiziedu.com/)|<http://www.maiziedu.com/>|在线的IT职业教育平台，提供多种技术在线学习。|
 |[CSS参考手册](http://css.doyoe.com/)|<http://css.doyoe.com/>|CSS参考手册，支持IE6.0+, Firefox4.0+, Chrome4.0+, Safari3.1+, Opera15.0+（Opera从15.0开始转入webkit阵营）, iOS Safari3.2+, Android Browser2.1+, Android Chrome18.0+ 可做时常查阅。|
 |[好东西论坛](http://forum.memect.com/)|<http://forum.memect.com/>|国内一个不错的开发者日报订阅站点，涉及app,python,机器学习，大数据，web开发等多个方面|
+|[Html5 Tutorial](http://www.tutorialspoint.com/html5/)|<http://www.tutorialspoint.com/html5/>|国外一个不错的自学Html5的网站。|
