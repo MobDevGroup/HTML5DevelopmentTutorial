@@ -30,5 +30,6 @@
 |[Html5 Tutorial](http://www.tutorialspoint.com/html5/)|<http://www.tutorialspoint.com/html5/>|国外一个不错的自学Html5的网站。|
 |[lynda](http://www.lynda.com/)|<http://www.lynda.com/>|Lynda是一个在线学习网站，该网站提供技术、设计等很多的课程。|
 |[freebbble](http://freebbble.com/)|<http://freebbble.com/>|网站搜集了来自 Dribbble 的免费素材。|
-|[fribbble](http://fribbble.com/)|<http://fribbble.com/>|Dribbble设计师的免费素材，项目由 Gilbert Pellegrom 所策划.|
-|[pixelbuddha](http://pixelbuddha.net/)|<http://pixelbuddha.net/>|为专业人士准备的设计素材，有免费的好资源，也有收费的进阶版.|
+|[fribbble](http://fribbble.com/)|<http://fribbble.com/>|Dribbble设计师的免费素材，项目由 Gilbert Pellegrom 所策划。|
+|[pixelbuddha](http://pixelbuddha.net/)|<http://pixelbuddha.net/>|为专业人士准备的设计素材，有免费的好资源，也有收费的进阶版。|
+|[墨刀](https://modao.cc/)|<https://modao.cc/>|移动在线产品设计，让创意十分钟呈现。|
